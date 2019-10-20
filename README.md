@@ -15,8 +15,27 @@ In a past days and present, farmers are usually detecting the crop diseases with
 
 ![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/SimilarDiseases.png)
 
-# So, How to prevent this from happening ?
+## 2.So, How to prevent this from happening ?
 To prevent this situation we need a better and perfect guidance on which fertilisers to use and to make correct identification of diseases and ability to distinguish between two or more similar type of diseases in visuals.
 This is where Artificial Neural Networks comes handy in short ANN. **Using Convolutional Neural Network this get done.**
 
 ![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/Simple-VS-DeepLearning.jpeg)
+
+## 3.Convolutional Neural Network.
+
+There you go Convolutional Neural Network (CNN or Conv Nets). it is well known for its widely used in applications of image and video recognition and also in recommender systems and Natural Language Processing(NLP). However, convolutional is more efficient because it reduces the number of parameters which makes different from other deep learning models.
+
+![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/InternalBlockOfCNN.png)
+
+![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/Keras-Tensorflow.png)
+
+## 4. Accuracy and Evaluation.
+![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/Acc.png)
+![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/ResultCrop.jpeg)
+
+## 5.Deployment Using Flutter .
+![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/AppAsset.png)
+
+**Note: In my repo the code for App is not uploaded as it is relatively 1GB in Size. But soon i will share the code for App.**
+
+Happy Learning.
