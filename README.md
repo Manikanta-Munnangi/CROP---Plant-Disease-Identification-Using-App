@@ -15,7 +15,7 @@ In a past days and present, farmers are usually detecting the crop diseases with
 
 ![](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/SimilarDiseases.png)
 
-## 2.So, How to prevent this from happening ?
+## 2.So,How to prevent this from happening ?
 To prevent this situation we need a better and perfect guidance on which fertilisers to use and to make correct identification of diseases and ability to distinguish between two or more similar type of diseases in visuals.
 This is where Artificial Neural Networks comes handy in short ANN. **Using Convolutional Neural Network this get done.**
 
