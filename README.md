@@ -1,5 +1,6 @@
 # **Crop: Plant Disease Identification Using App.**
-**Plant diseases can be detect by leveraging the power of Deep Learning.**
+
+- Plant diseases can be detect by leveraging the power of Deep Learning.
 
 ![Crop App Demo](https://github.com/Manikanta-Munnangi/CROP---Plant-Disease-Identification-Using-App/blob/master/Images-src/CropPoster.png)
 
